@@ -1,6 +1,8 @@
 # Packages
 PRODUCT_PACKAGES += \
-    Turbo
+    Turbo \
+    music \
+    launcherS
 
 # Overlays
 PRODUCT_PACKAGES += \
