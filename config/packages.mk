@@ -32,7 +32,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     AnalogDeadpool \
     AnalogDeepNight \
-    AnalogDu
+    AnalogDu \
+    AnalogSpiderman
 
 # Dark theme
 PRODUCT_PACKAGES += \

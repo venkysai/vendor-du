@@ -21,4 +21,5 @@
     <string name="lockscreen_clock_selection_analog_deadpool">Analog (deadpool)</string>
     <string name="lockscreen_clock_selection_analog_deepnight">Analog (deep night)</string>
     <string name="lockscreen_clock_selection_analog_du">Analog (du)</string>
+    <string name="lockscreen_clock_selection_analog_spiderman">Analog (Spiderman)</string>
 </resources>
