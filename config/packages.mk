@@ -30,6 +30,7 @@ PRODUCT_PACKAGES += \
 
 # Analog clocks
 PRODUCT_PACKAGES += \
+    AnalogAvengers \
     AnalogDeadpool \
     AnalogDeepNight \
     AnalogDu \
